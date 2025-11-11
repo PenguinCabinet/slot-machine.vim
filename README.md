@@ -7,7 +7,7 @@ Written in Vim script.
 ```
 :source slot-machine.vim
 ```
-
+Loding slot-machine.vim.
 ```
 :SlotMachine 
 ```
