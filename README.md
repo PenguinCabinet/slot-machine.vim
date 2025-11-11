@@ -14,6 +14,6 @@ Written in Vim script.
 Press the s key to stop the slot machine.
 
 ```
-:SlotMachine 10 
+:SlotMachine 1000
 ```
 If you want to change the speed of the slot machine, please specify the frame time(ms) as an argument.

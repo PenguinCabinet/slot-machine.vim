@@ -1,7 +1,7 @@
 :command! -nargs=? SlotMachine call SlotMachine(<f-args>)
 
 function SlotMachine(...)
-	let wt=1000
+	let wt=10
 	if a:0>=1
 		let wt=a:1
 	end
